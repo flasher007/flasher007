@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=flasher007)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flasher007)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Aleksandr GitHub stats](https://github-readme-stats.vercel.app/api?username=flasher007)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
